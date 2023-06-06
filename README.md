@@ -8,8 +8,7 @@ I'm Bogdan from United States, and I am a Computer Science major studing in Quee
 ## Skills and Experience:
 * 💻 C#, C++
 
-- 🔭 I’m currently working on 2D top Down Shooter Game 
-- 🌱 I’m currently learning Computer Science 
+- 🌱 I’m currently studying Computer Science 
 - 🤔 I’m looking for help with Finding the right path for Game Development 
 - 😄 Pronouns: He/Him 
 
