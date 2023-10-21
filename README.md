@@ -1,4 +1,4 @@
-![Computer Science Major and Game Developer](https://media-exp1.licdn.com/dms/image/C4E16AQFyGCLHEKW7xw/profile-displaybackgroundimage-shrink_350_1400/0/1662594090612?e=1668038400&v=beta&t=3dgMi6gkzv9bGPlyj81Gbql0X-7khMdenUroVnGjFxQ)
+![Computer Science Major](https://media-exp1.licdn.com/dms/image/C4E16AQFyGCLHEKW7xw/profile-displaybackgroundimage-shrink_350_1400/0/1662594090612?e=1668038400&v=beta&t=3dgMi6gkzv9bGPlyj81Gbql0X-7khMdenUroVnGjFxQ)
 
 # Bogdan Mieldzicz
 #### Computer Science Major and Game Developer
